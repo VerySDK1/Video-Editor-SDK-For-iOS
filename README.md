@@ -1,0 +1,2 @@
+# VerySDK-Video-Editor-SDK-For-iOS
+This is a highly UI-based video editing SDK.   developers can easily implement customized UI interfaces and processes. at the same   time, its comprehensive functions can cover all aspects of technology from shooting,   editing, encoding to exporting. it is compatible with multiple models and system   versions, with efficient and stable performance. at present, this SDK has covered   300 million C-end users.
