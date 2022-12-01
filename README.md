@@ -44,6 +44,9 @@ This is a highly UI-based video editing SDK.   developers can easily implement c
 * Set export code rate, frame rate and resolution
 * [More functions](http://www.verysdk.com/function.html)
 
+### VeCore Structure Diagram:
+[![](https://github.com/VerySDK1/Video-Editor-SDK-For-Android/blob/main/Photos/iOS_VECoreStructureDiagram.png)](http://www.verysdk.com)
+
 ### Material management system (Value added service)
 Online manage music, sticker, special effect, subtitle, filter, sound effect, video template and other material needed by SDK
 
