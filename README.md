@@ -1,5 +1,5 @@
 # VerySDK-Video-Editor-SDK-For-iOS
-This is a highly UI-based video editing SDK.   developers can easily implement customized UI interfaces and processes. at the same   time, its comprehensive functions can cover all aspects of technology from shooting,   editing, encoding to exporting. it is compatible with multiple models and system   versions, with efficient and stable performance. at present, this SDK has covered   300 million C-end users.
+This is a highly UI-based video editing SDK.   developers can easily implement customized UI interfaces and processes. at the same   time, its comprehensive functions can cover all aspects of technology from shooting,   editing, encoding to exporting. it is compatible with multiple models and system   versions, with efficient and stable performance. at present, this SDK has covered 300 million C-end users.
 
 ## SDK function introduction:
 ### Smart Shooting
@@ -45,7 +45,7 @@ This is a highly UI-based video editing SDK.   developers can easily implement c
 * [More functions](http://www.verysdk.com/function.html)
 
 ### VeCore Structure Diagram:
-[![](https://github.com/VerySDK1/Video-Editor-SDK-For-Android/blob/main/Photos/iOS_VECoreStructureDiagram.png)](http://www.verysdk.com)
+[![](https://github.com/Terrydaixg/VerySDK-Video-Editor-SDK-For-Android/blob/main/Photos/VECore Structure Diagram.png)](http://www.verysdk.com)
 
 ### Material management system (Value added service)
 Online manage music, sticker, special effect, subtitle, filter, sound effect, video template and other material needed by SDK
