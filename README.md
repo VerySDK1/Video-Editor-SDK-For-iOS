@@ -65,10 +65,8 @@ Memory: Above 1 GB
 2、	Helpdesk will authorize the temporary license within 3 working days after receiving the request, and reply email with Appkey & AppSecret. 
 
 ## Demo presentation
-Lite: https://testflight.apple.com/join/6YsLaZ54
-
-Pro:  https://testflight.apple.com/join/tFvhKlyX
-
+Pro:     https://testflight.apple.com/join/1KpIKmA4
+Deluxe:  https://testflight.apple.com/join/qRsSSfce
 ## Contact us
 Helpdesk Email: support@verysdk.com
 
